@@ -1,3 +1,3 @@
-# Eesti_Food_V3
+# Eesti_Food_V4
 
-Página web para la materia de Programacion. Version 3.0, contiene Login con autentificador en JSON.
+Version 4 de la página web Eesti Fusion KooK agregado modal con CRUD de pre-ordenar pedidos. se guarda en LocalStorage
